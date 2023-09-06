@@ -44,7 +44,7 @@ Follow these steps to set up the project on your local machine.
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/yourusername/valorant-agents-app.git
+    git clone https://github.com/marvintv/valorant-agents-app.git
     ```
 
 2. Navigate to the project folder
